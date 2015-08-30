@@ -38,6 +38,3 @@ while a <= b:
 	else:
 		a = a + 1
 print suma
-
-
-
