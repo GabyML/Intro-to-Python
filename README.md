@@ -1,1 +1,1 @@
-README.md
+This repository contains the code created to solve the introductory excercises to Python from the Rosalind.info site. 
